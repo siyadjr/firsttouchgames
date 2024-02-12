@@ -19,7 +19,7 @@ header {
 }
 
 .bgimg {
-    background-image: url(/IMAGES/01.jpg);
+    background-image: url(IMAGES/01.jpg);
     background-size: 100%;
     margin: 0;
     width: 100%;
